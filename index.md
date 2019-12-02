@@ -28,3 +28,5 @@ This project relates to the delivery of hands-on bioinformatics training worksho
 - [GenomicsAotearoa.github.io](https://github.com/GenomicsAotearoa/GenomicsAotearoa.github.io) - the repository for this website.
 - [2019-09-19-ESR](https://github.com/GenomicsAotearoa/2019-09-19-ESR) - Data Carpentry Genomics repository for upcoming training event at ESR in Porirua.
 - [cloudsforresearch](https://github.com/GenomicsAotearoa/cloudsforresearch) - A guide to getting started in the cloud.
+- [Training Updates](https://github.com/GenomicsAotearoa/GA_Training) - Information on upcoming and past training events
+
